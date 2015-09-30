@@ -1,0 +1,20 @@
+																			
+
+	Initial Y	X1	X2	X3			1)	Y	X1+3	X2+3	X3+3			2)	Y	X1-1	X2-1	X3-1
+	Jane 	1	1	0	6			 Jane	1	4	3	9			Jane	1	0	-1	5
+	Mary 	2	2	0	1			 Mary	2	5	3	4			Mary	2	1	-1	0
+	Donna	3	3	0	1			 Donna	3	6	3	4			Donna 	3	2	-1	0
+	Bob	4	4	4	1			 Bob	4	7	7	4		        Bob	4	3	3	0
+																		 
+	SPSS Ref	X1	X2	X3			SPSS Ref	a=X1+3	b=X2+3	c=X3+3		        SPSS Ref	d=X1-1	e=X2-1	f=X3-1
+	Covariances 	1.6667	2	-2.5			Covariances	1.6667	2	-2.5		        Covariances	1.6667	2	-2.5
+Correlations											
+		        Y	X1	X2	X3	
+Pearson Correlation	1	1.000**	0.775	-0.775
+Sig. (2-tailed)	          	0	0.225	0.225			
+SS & Cross Prod.        5	5	6	-7.5			
+Covariance	      1.667	1.667	2	-2.5			
+	N	        4	4	4	  4			
+																			
+																			
+		
